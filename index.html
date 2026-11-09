@@ -8,6 +8,10 @@
         body {
             background-color: black;
             color: white;
+            font-family: Arial, sans-serif;
+        }
+        .contenedor-video {
+            margin-top: 20px;
         }
     </style>
 </head>
@@ -16,6 +20,20 @@
     <h1>Hola, mundo</h1>
     <h2>Estela Aldón</h2> 
     <p>Este es el contenido principal de la página.</p>
+
+    <!-- Sección del video incrustado -->
+    <div class="contenedor-video">
+        <iframe 
+            width="560" 
+            height="315" 
+            src="https://www.youtube.com/embed/jlIg1SLTqxA" 
+            title="Reproductor de video de YouTube" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            referrerpolicy="strict-origin-when-cross-origin" 
+            allowfullscreen>
+        </iframe>
+    </div>
 
 </body>
 </html>
