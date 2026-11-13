@@ -23,3 +23,4 @@ Vamos a practicar en esta sesión a como hacer una página web para nuestro proy
 
 Estela Aldón — curso [2026/2027]
 El profesor se va a tirar por el balcón 
+El profesor llegó al suelo y rebotó 
